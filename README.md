@@ -1,14 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a developer of Android studio apps in South Korea.
 
-<br/>
-
-### Languages
+### 👀 Languages
 
 - Kotlin
 - JAVA
 
-<br/>
+### ⚡️ Link
 
 - Medium : [hongbeomi-dev](https://medium.com/hongbeomi-dev)
+
