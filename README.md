@@ -4,5 +4,5 @@
 
 I'm a developer of Android studio apps in South Korea.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=hongbeomi&show_icons=true&line_height=20&title_color=339853&icon_color=61bb95)
+![github stats](https://github-readme-stats.vercel.app/api?username=hongbeomi&show_icons=true)
 
