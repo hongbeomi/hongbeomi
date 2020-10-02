@@ -1,6 +1,8 @@
-## Hi there <img alt="GIF" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="80px" />
+## Hi there 👋
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhongbeomi%2Fhit-counter)](https://hits.seeyoufarm.com) 
+
+<img align="left" alt="GIF" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="80px" />
 
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongbeomi&layout=compact)
 
